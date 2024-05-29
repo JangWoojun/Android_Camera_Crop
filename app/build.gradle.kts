@@ -51,4 +51,6 @@ dependencies {
     implementation("com.vanniktech:android-image-cropper:4.5.0")
 
     implementation("com.github.yalantis:ucrop:2.2.8-native")
+
+    implementation("com.oginotihiro:cropview:1.0.0")
 }
